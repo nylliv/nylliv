@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Pedro Mascarelo a.k.a Nylliv
+- 👋 Hi, I’m Nylliv
 - 👀 I’m interested in overall software engineering and innovations
 - 🌱 I’m currently learning C#, C++, Rwby, Java & JavaScript, PhP and HTML
 - 💞️ I’m looking to collaborate on (?)
